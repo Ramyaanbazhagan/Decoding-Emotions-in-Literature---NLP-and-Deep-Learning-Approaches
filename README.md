@@ -65,11 +65,11 @@ Literary emotion detection aims to capture and analyze emotional expression in n
 
 ### Model Architecture
 
-![Model Architecture](images/model-architecture.png)
+![Model Architecture](architecture.png)
 
 ### Workflow
 
-![Workflow Diagram](images/workflow.png)
+![Workflow Diagram](workflow.png)
 
 ## 🧠 Model Selection
 
@@ -104,8 +104,8 @@ A sample poem was processed end to end: preprocessing, sliding windows (4 overla
 
 The lexicon method returns one label, while the transformer shows a mix of overlapping emotions, which matches the bittersweet tone of the text.
 
-![Emotion visualization](images/results-1.png)
-![Emotion trend](images/results-2.png)
+![Emotion visualization](results-1.png)
+![Emotion trend](results-2.png)
 
 ## 🚀 Future Enhancements
 
