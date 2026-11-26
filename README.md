@@ -136,6 +136,3 @@ cd Decoding-Emotions-in-Literature
 3. F. Safari and A. Chalechale, "Emotion and personality analysis and detection using natural language processing, advances, challenges and future scope," *Artif. Intell. Rev.*, vol. 56, no. S3, pp. 3273–3297, Dec. 2023. doi: 10.1007/s10462-023-10603-3
 4. K. Machová, M. Szabóova, J. Paralič and J. Mičko, "Detection of emotion by text analysis using machine learning," *Front. Psychol.*, vol. 14, p. 1190326, Sep. 2023. doi: 10.3389/fpsyg.2023.1190326
 
-## 👩‍💻 Author
-
-**A.K. Ramya** · [LinkedIn](https://linkedin.com/in/ramya-anbu) · [Portfolio](https://ramyaanbazhagan.github.io/portfolio/)
